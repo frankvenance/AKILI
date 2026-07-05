@@ -1,0 +1,2 @@
+matrix,m,nnz_A,nnz_C,fill,work_iters,cv,threads,schedule,seq_s,best_s,speedup,gflops,ok
+test.mtx,5,8,11,1.3750,14,0.2673,2,dynamic,0.000003,0.000007,0.4922,0.0042,1

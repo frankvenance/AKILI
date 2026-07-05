@@ -1,0 +1,22 @@
+# Generated/fetched matrices (reproducible via gen_matrix.py / fetch_matrices.sh)
+*.mtx
+!test.mtx
+matrices/
+
+# Build artifacts
+step1
+step2
+step3
+step3b
+step4
+step5
+step6
+step7
+step8
+*.o
+
+# Local tooling
+.venv/
+.spgemm_autotune_cache
+__pycache__/
+*.pyc
